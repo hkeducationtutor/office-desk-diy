@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-27T09:04:32.962Z",
+  "passed": [
+    "JavaScript syntax",
+    "local vendor execution r180",
+    "all 9 initial object factories",
+    "add/select/recolor/material/rotate/scale/copy/remove",
+    "localStorage scene round-trip",
+    "invalid import preserves scene",
+    "valid empty import",
+    "all HTML resources local and present"
+  ],
+  "browserRendering": "BLOCKED: Chromium macOS bootstrap_check_in permission denied; browser MCP approval unavailable",
+  "gpuShaders": "NOT VERIFIED",
+  "preview": null
+}
